@@ -371,7 +371,7 @@ $$ LANGUAGE plv8 IMMUTABLE STRICT;`),
             When the function file extension doesn&apos;t end in{" "}
             <code className="bg-gray-100 rounded-md p-1">.tsx</code> or
             <code className="bg-gray-100 rounded-md p-1">.jsx</code>, the React
-            runtime is included from the bundle.
+            runtime could be excluded from the bundle as an optimization.
           </p>
         </Question>
 
