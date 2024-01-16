@@ -273,7 +273,7 @@ $$ LANGUAGE plv8 IMMUTABLE STRICT;`),
           <span className="bg-gray-100 rounded-md p-1">
             SELECT helloWorld()
           </span>{" "}
-          query query to Postgres, which is then streamed to the client via
+          query to Postgres, which is then streamed to the client via
           React Server Components.
         </p>
 
