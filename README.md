@@ -1,7 +1,7 @@
 ## react-postgres-components
 
 <a href="https://react-postgres-components.vercel.app/">
-<img src="https://github.com/rauchg/react-postgres-components/assets/13041/5c2f62ea-c16c-4a19-b6e2-34f1be349300" width="400" />
+<img src="https://github.com/rauchg/react-postgres-components/assets/13041/7b3b83ec-15b5-4aa5-a61c-3f5e6257e424" width="300" />
 </a>
 
 An experiment on deploying remote functions that run inside Postgres using v8, run React SSR, and are easily defined in a `rpc/` directory.
