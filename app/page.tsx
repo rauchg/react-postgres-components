@@ -150,7 +150,7 @@ export default function Page() {
           . In local dev, the functions are executed in the Node.js runtime and
           exist in a unified codebase. Upon{" "}
           <code className="bg-gray-100 rounded-md p-1">git push</code>,
-          speecialized infrastructure (in this case PLV8 functions) is created.
+          specialized infrastructure (in this case PLV8 functions) is created.
         </p>
 
         <p className="my-5 font-mono">
