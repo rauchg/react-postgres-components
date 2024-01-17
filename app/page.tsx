@@ -396,7 +396,7 @@ $$ LANGUAGE plv8 IMMUTABLE STRICT;`),
           <p className="my-5 font-mono">
             These functions, however, are never exposed directly as API Routes
             or HTTP endpoints. Instead, in the examples above, they are
-            themselves invoke from React Server Components like normal SQL.
+            themselves invoked from React Server Components like normal SQL.
           </p>
         </Question>
 
